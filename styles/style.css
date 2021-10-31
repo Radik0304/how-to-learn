@@ -222,7 +222,6 @@
   position: relative;
   color: #000000;
   display: flex;
-  position: relative;
   flex-direction: row;
   justify-content: space-around;
 }
@@ -248,7 +247,7 @@
   z-index: 1;
   line-height: 51px;
   font-size: 36px;
-  font-weight: normal
+  font-weight: normal;
 }
 
 .feynman_link {
