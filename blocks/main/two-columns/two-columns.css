@@ -1,0 +1,17 @@
+/*стили для блока секции description*/
+
+.two-columns {
+  display: flex;
+  margin: 100px auto 0 auto;
+  width: 80%;
+  flex-direction: row;
+  justify-content: space-between;
+  color: #000000;
+}
+
+
+
+
+
+
+
