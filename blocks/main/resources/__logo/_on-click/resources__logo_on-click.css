@@ -1,0 +1,9 @@
+.resources__logo_on-click {
+  opacity: 1;
+}
+
+.resources__logo_on-click:hover {
+  opacity: 0.5;
+  transition: opacity 0.1s linear 0.1s;
+}
+
